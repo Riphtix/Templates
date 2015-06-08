@@ -1,0 +1,9 @@
+public class Reference
+{
+    public static final String MOD_ID = "ID";
+    public static final String MOD_NAME = "Name";
+    public static final String VERSION = "Version";
+    public static final String CLIENT_PROXY_CLASS = "Location of Client Proxy class";
+    public static final String SERVER_PROXY_CLASS = "Location of Server Proxy class";
+    public static final String GUI_FACTORY_CLASS = "Location of GUI Factory class";
+}
